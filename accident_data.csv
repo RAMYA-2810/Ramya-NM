@@ -1,0 +1,16 @@
+Weather,Light_Conditions,Road_Surface,Vehicle_Speed,Severity
+Clear,Daylight,Dry,60,0
+Rain,Night,Wet,45,1
+Fog,Daylight,Dry,30,0
+Clear,Night,Wet,80,1
+Rain,Daylight,Wet,55,1
+Clear,Daylight,Dry,70,0
+Fog,Night,Dry,40,0
+Clear,Daylight,Wet,90,1
+Rain,Night,Wet,65,1
+Clear,Night,Dry,50,0
+Fog,Daylight,Wet,35,0
+Rain,Daylight,Dry,75,1
+Clear,Daylight,Dry,62,0
+Rain,Night,Dry,85,1
+Clear,Daylight,Wet,58,0
